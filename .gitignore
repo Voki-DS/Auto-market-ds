@@ -3,6 +3,7 @@
 *.png
 *.sql
 *.db
+*.txt
 
 .env
 
