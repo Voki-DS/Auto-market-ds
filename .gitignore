@@ -1,0 +1,12 @@
+*.parquet
+*.csv
+*.png
+*.sql
+*.db
+
+.env
+
+__pycache__/
+*.py
+
+.vscode
