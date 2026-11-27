@@ -1,0 +1,10 @@
+beautifulsoup4==4.15.0
+fake-useragent==2.2.0
+numpy==2.4.6
+pandas==3.0.1
+pyarrow==24.0.0
+python-dotenv==1.2.1
+requests==2.32.5
+scikit-learn==1.9.1
+SQLAlchemy==2.1.9
+tabulate==0.10.0
